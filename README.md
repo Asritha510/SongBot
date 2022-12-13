@@ -1,5 +1,5 @@
 # SongBot
-Creating a song bot similar to chat bot using Telegram bots.
+A bot similar to chat bot using Telegram bot API.
 Used KPOP API from Rapid API to build the song bot.
 Linked Google Firebase to maintain the record of user credentials and searches.
 
